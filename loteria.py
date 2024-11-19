@@ -13,7 +13,7 @@ def megaSena(qtdApostas):
     for i in range(1, 61):
         numeros.append(i)
 
-    
+        
     todasApostas = [] # cada lista de aposta ficará em uma posição dessa lista
 
     for i in range(qtdApostas):
